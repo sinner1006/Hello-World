@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Hello World Mobile App",
+    "slug": "hello-world-mobile-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
